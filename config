@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = http://18.138.236.178:8081/livePlus-web/landingPage
+	fetch = +refs/*:refs/*
+	mirror = true
